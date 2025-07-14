@@ -8,3 +8,5 @@ Esse é um repositório de algumas visualizacões de dados produzidas para fins 
 
 
 <img width="1486" height="1200" alt="mapa_final" src="https://github.com/user-attachments/assets/0e451c20-fc01-4a64-b089-0fdb6a65a848" />
+
+![primeiro_gif](https://github.com/user-attachments/assets/6563b321-7224-4c8b-856b-9a8a63db42dd)
