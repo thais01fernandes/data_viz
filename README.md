@@ -1,5 +1,6 @@
 Esse é um repositório de algumas visualizacões de dados produzidas para fins de trabalho e/ou portifólio
 
+<img width="3600" height="3200" alt="plot" src="https://github.com/user-attachments/assets/dab45c7f-3b96-4d54-a428-2a59674f29e2" />
 
 <img width="3600" height="2400" alt="celulares" src="https://github.com/user-attachments/assets/4ad8780f-3f38-42b1-a332-c1154cfbd321" />
 
