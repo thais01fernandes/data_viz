@@ -2,6 +2,9 @@ Esse é um repositório de algumas visualizacões de dados produzidas para fins 
 
 <img width="1760" height="2160" alt="tf" src="https://github.com/user-attachments/assets/543b26d3-beb3-4352-9152-b890fce025bd" />
 
+<img width="2920" height="2203" alt="image" src="https://github.com/user-attachments/assets/33d182a3-1d62-4111-9571-44825fea47d5" />
+
+<img width="2901" height="2170" alt="image" src="https://github.com/user-attachments/assets/807b4d74-2861-4e2e-bc4d-40f1fa6c15c6" />
 
 <img width="3600" height="3200" alt="plot" src="https://github.com/user-attachments/assets/dab45c7f-3b96-4d54-a428-2a59674f29e2" />
 
