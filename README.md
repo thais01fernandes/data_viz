@@ -1,6 +1,6 @@
 Esse é um repositório de algumas visualizacões de dados produzidas para fins de trabalho e/ou portifólio
 
-<img width="1380" height="1800" alt="plot" src="https://github.com/user-attachments/assets/413d71ec-c562-4123-b37b-4f80397612cb" />
+<img width="1760" height="2160" alt="tf" src="https://github.com/user-attachments/assets/543b26d3-beb3-4352-9152-b890fce025bd" />
 
 
 <img width="3600" height="3200" alt="plot" src="https://github.com/user-attachments/assets/dab45c7f-3b96-4d54-a428-2a59674f29e2" />
