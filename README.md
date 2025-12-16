@@ -2,7 +2,13 @@ Esse é um repositório de algumas visualizacões de dados produzidas para fins 
 
 <img width="1400" height="865" alt="0000d1" src="https://github.com/user-attachments/assets/ebc5e306-68a0-4940-ae3e-22a57b583ee3" />
 
-<img width="1706" height="2085" alt="tf" src="https://github.com/user-attachments/assets/44e90959-5e2f-472d-9693-8d5ee4a172c9" />
+<img width="3200" height="1600" alt="waffle" src="https://github.com/user-attachments/assets/7eb8a71a-b462-4836-bf2f-ec10cba1cfeb" />
+
+<img width="3200" height="2000" alt="grafico_linha" src="https://github.com/user-attachments/assets/593413f4-5db9-440c-bca9-f23e777c60a4" />
+
+<img width="4500" height="4500" alt="grafico_barras" src="https://github.com/user-attachments/assets/1df7fa9e-8d6c-4624-bf91-99306bdaaa2e" />
+
+<img width="1200" height="1800" alt="tf" src="https://github.com/user-attachments/assets/44e90959-5e2f-472d-9693-8d5ee4a172c9" />
 
 <img width="2920" height="2203" alt="image" src="https://github.com/user-attachments/assets/33d182a3-1d62-4111-9571-44825fea47d5" />
 
@@ -14,9 +20,6 @@ Esse é um repositório de algumas visualizacões de dados produzidas para fins 
 
 
 <img width="3600" height="2400" alt="celulares_pib" src="https://github.com/user-attachments/assets/abbb7659-805a-428d-bae4-4e397e7c8185" />
-
-
-<img width="1486" height="1200" alt="mapa_final" src="https://github.com/user-attachments/assets/0e451c20-fc01-4a64-b089-0fdb6a65a848" />
 
 ![Apresentação Trabalho Conclusão de Curso Minimalista Preto e Branco](https://github.com/user-attachments/assets/c55f9a2f-7896-4ef3-b40b-99826f2850f6)
 
