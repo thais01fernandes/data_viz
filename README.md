@@ -2,7 +2,8 @@ Esse é um repositório de algumas visualizacões de dados produzidas para fins 
 
 <img width="1400" height="865" alt="0000d1" src="https://github.com/user-attachments/assets/ebc5e306-68a0-4940-ae3e-22a57b583ee3" />
 
-<img width="3200" height="1600" alt="waffle" src="https://github.com/user-attachments/assets/7eb8a71a-b462-4836-bf2f-ec10cba1cfeb" />
+<img width="3200" height="1600" alt="waffle_postar" src="https://github.com/user-attachments/assets/32761414-1c9d-495e-b711-b14d36f17a2b" />
+
 
 <img width="3200" height="2000" alt="grafico_linha" src="https://github.com/user-attachments/assets/593413f4-5db9-440c-bca9-f23e777c60a4" />
 
