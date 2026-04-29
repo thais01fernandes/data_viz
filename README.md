@@ -2,27 +2,46 @@ Esse é um repositório de algumas visualizacões de dados produzidas para fins 
 
 <img width="1400" height="865" alt="0000d1" src="https://github.com/user-attachments/assets/ebc5e306-68a0-4940-ae3e-22a57b583ee3" />
 
+----
 <img width="3200" height="1600" alt="waffle_postar" src="https://github.com/user-attachments/assets/32761414-1c9d-495e-b711-b14d36f17a2b" />
 
-
+----
 <img width="3200" height="2000" alt="grafico_linha" src="https://github.com/user-attachments/assets/593413f4-5db9-440c-bca9-f23e777c60a4" />
 
+----
 <img width="4500" height="4500" alt="grafico_barras" src="https://github.com/user-attachments/assets/1df7fa9e-8d6c-4624-bf91-99306bdaaa2e" />
 
-<img width="1200" height="1800" alt="tf" src="https://github.com/user-attachments/assets/44e90959-5e2f-472d-9693-8d5ee4a172c9" />
+----
+<img width="600" height="800" alt="tf" src="https://github.com/user-attachments/assets/44e90959-5e2f-472d-9693-8d5ee4a172c9" />
+
+----
 
 <img width="2920" height="2203" alt="image" src="https://github.com/user-attachments/assets/33d182a3-1d62-4111-9571-44825fea47d5" />
 
+----
+
 <img width="2901" height="2170" alt="image" src="https://github.com/user-attachments/assets/807b4d74-2861-4e2e-bc4d-40f1fa6c15c6" />
+
+----
 
 <img width="3600" height="3200" alt="plot" src="https://github.com/user-attachments/assets/dab45c7f-3b96-4d54-a428-2a59674f29e2" />
 
+----
+
 <img width="3600" height="2400" alt="celulares" src="https://github.com/user-attachments/assets/4ad8780f-3f38-42b1-a332-c1154cfbd321" />
+
+----
 
 <img width="3600" height="2400" alt="celulares_pib" src="https://github.com/user-attachments/assets/abbb7659-805a-428d-bae4-4e397e7c8185" />
 
+----
+
 <img width="1486" height="1200" alt="mapa_final" src="https://github.com/user-attachments/assets/0e451c20-fc01-4a64-b089-0fdb6a65a848" />
 
+----
+
 ![Apresentação Trabalho Conclusão de Curso Minimalista Preto e Branco](https://github.com/user-attachments/assets/c55f9a2f-7896-4ef3-b40b-99826f2850f6)
+
+----
 
 ![primeiro_gif](https://github.com/user-attachments/assets/6563b321-7224-4c8b-856b-9a8a63db42dd)
