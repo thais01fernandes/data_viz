@@ -28,7 +28,7 @@ Esse é um repositório de algumas visualizacões de dados produzidas para fins 
 <img width="4500" height="4500" alt="grafico_barras" src="https://github.com/user-attachments/assets/1df7fa9e-8d6c-4624-bf91-99306bdaaa2e" />
 
 ----
-<img width="600" height="800" alt="tf" src="https://github.com/user-attachments/assets/44e90959-5e2f-472d-9693-8d5ee4a172c9" />
+<img width="650" height="800" alt="tf" src="https://github.com/user-attachments/assets/44e90959-5e2f-472d-9693-8d5ee4a172c9" />
 
 ----
 
