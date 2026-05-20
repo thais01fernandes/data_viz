@@ -1,6 +1,14 @@
 Esse é um repositório de algumas visualizacões de dados produzidas para fins de trabalho e/ou portifólio
 
-<img width="2700" height="1800" alt="grafico_faixas_etarias" src="https://github.com/user-attachments/assets/d0ab381d-2327-4e6c-aa0d-bce066bc9dfc" />
+<img width="2700" height="1500" alt="mapa_alfabetizacao" src="https://github.com/user-attachments/assets/b1af8476-ff72-47fb-968a-28c7d291fd98" />
+
+----
+
+<img width="2100" height="1800" alt="mapa_moradores" src="https://github.com/user-attachments/assets/82e87125-0f6c-4a48-b7b0-b25a8a1cabf9" />
+
+----
+
+<img width="2700" height="1800" alt="grafico_faixas_etarias" src="https://github.com/user-attachments/assets/e5514fff-e858-49e5-be90-b4f5694eb250" />
 
 ----
 
