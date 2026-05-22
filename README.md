@@ -1,6 +1,6 @@
 Esse é um repositório de algumas visualizacões de dados produzidas para fins de trabalho e/ou portifólio
 
-<img width="2100" height="1500" alt="mapa_alfabetizacao" src="https://github.com/user-attachments/assets/a6c1b6fc-1846-48fe-b668-b56f848e1804" />
+<img width="2100" height="1500" alt="mapa_alfabetizacao" src="https://github.com/user-attachments/assets/01f9aa1b-fa3a-4575-8910-83d4e9f9e55d" />
 
 ----
 
