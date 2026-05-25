@@ -5,12 +5,13 @@
 </p>
 
 
-
-
-<img width="2100" height="1800" alt="mapa_indice_envelhecimento" src="https://github.com/user-attachments/assets/326f9915-8f55-4f5f-9a46-e7b158c85748" />
+<img width="1800" height="1800" alt="mapa_indice_envelhecimento" src="https://github.com/user-attachments/assets/4fe6ae7b-06a1-4224-9cd8-f190191daa6d" />
 
 ----
 
+<img width="2700" height="1800" alt="grafico_alfabetizacao" src="https://github.com/user-attachments/assets/e579b7dd-bf18-4746-b29d-8fd767ae3a8c" />
+
+----
 <img width="2100" height="1500" alt="mapa_alfabetizacao" src="https://github.com/user-attachments/assets/01f9aa1b-fa3a-4575-8910-83d4e9f9e55d" />
 
 ----
