@@ -1,4 +1,15 @@
-Esse é um repositório de algumas visualizacões de dados produzidas para fins de trabalho e/ou portifólio
+<h1 align="center">📊 Portfólio de Visualização de Dados</h1>
+
+<p align="center">
+  Projetos de visualização e storytelling com dados.
+</p>
+
+
+
+
+<img width="2100" height="1800" alt="mapa_indice_envelhecimento" src="https://github.com/user-attachments/assets/326f9915-8f55-4f5f-9a46-e7b158c85748" />
+
+----
 
 <img width="2100" height="1500" alt="mapa_alfabetizacao" src="https://github.com/user-attachments/assets/01f9aa1b-fa3a-4575-8910-83d4e9f9e55d" />
 
