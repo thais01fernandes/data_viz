@@ -5,7 +5,7 @@
 </p>
 
 
-<img width="1000" height="1000" alt="mapa_indice_envelhecimento" src="https://github.com/user-attachments/assets/4fe6ae7b-06a1-4224-9cd8-f190191daa6d" />
+<img width="800" height="800" alt="mapa_indice_envelhecimento" src="https://github.com/user-attachments/assets/4fe6ae7b-06a1-4224-9cd8-f190191daa6d" />
 
 ----
 
