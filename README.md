@@ -1,10 +1,20 @@
-📊 Portfólio de Visualização de Dados</h1>
+# 📊 Portfólio de Visualização de Dados</h1>
 
 <p align="center">
   Projetos de visualização e storytelling com dados.
 </p>
 
 ----
+
+<img width="2700" height="1800" alt="grafico_renda_boxplot" src="https://github.com/user-attachments/assets/16122b3a-b6aa-4517-bb9c-23a4aca694de" />
+
+----
+
+<img width="2700" height="1800" alt="grafico_mei" src="https://github.com/user-attachments/assets/97c56524-31d0-4143-9829-a182be07d213" />
+
+----
+
+<img width="2700" height="1800" alt="grafico_3" src="https://github.com/user-attachments/assets/0379195c-e80a-4a1f-9134-a20fca005638" />----
 
 <img width="2700" height="1800" alt="grafico_alfabetizacao" src="https://github.com/user-attachments/assets/e579b7dd-bf18-4746-b29d-8fd767ae3a8c" />
 
@@ -32,18 +42,6 @@
 ----
 
 <img width="2700" height="1800" alt="grafico_moradores" src="https://github.com/user-attachments/assets/5654eab5-2dca-4440-8722-3d8bf93847cd" />
-
-----
-
-<img width="2700" height="1800" alt="grafico_renda_boxplot" src="https://github.com/user-attachments/assets/16122b3a-b6aa-4517-bb9c-23a4aca694de" />
-
-----
-
-<img width="2700" height="1800" alt="grafico_mei" src="https://github.com/user-attachments/assets/97c56524-31d0-4143-9829-a182be07d213" />
-
-----
-
-<img width="2700" height="1800" alt="grafico_3" src="https://github.com/user-attachments/assets/0379195c-e80a-4a1f-9134-a20fca005638" />
 
 ----
 
