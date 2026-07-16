@@ -10,7 +10,7 @@
 
 ----
 
-<img width="700" height="1000" alt="mapa_bivariado" src="https://github.com/user-attachments/assets/6a7feb57-492a-4e54-a2c2-d0e849c381f5" />
+<img width="600" height="890" alt="mapa_bivariado" src="https://github.com/user-attachments/assets/6a7feb57-492a-4e54-a2c2-d0e849c381f5" />
 
 
 ----
