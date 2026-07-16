@@ -6,6 +6,15 @@
 
 ----
 
+<img width="3000" height="1800" alt="grafico_linha" src="https://github.com/user-attachments/assets/f00c1a51-6502-4ac4-9bfc-81bd4fb19e29" />
+
+----
+
+<img width="700" height="1000" alt="mapa_bivariado" src="https://github.com/user-attachments/assets/6a7feb57-492a-4e54-a2c2-d0e849c381f5" />
+
+
+----
+
 <img width="2700" height="1800" alt="grafico_renda_boxplot" src="https://github.com/user-attachments/assets/16122b3a-b6aa-4517-bb9c-23a4aca694de" />
 
 ----
