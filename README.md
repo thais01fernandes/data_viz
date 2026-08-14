@@ -6,7 +6,7 @@
 
 ----
 
-<img width="3000" height="1800" alt="grafico_florence" src="https://github.com/user-attachments/assets/848c06da-84f5-4466-93b1-395145b30be4" />
+<img width="2842" height="1800" alt="grafico_florence" src="https://github.com/user-attachments/assets/35382ed9-4a6b-4337-9e6f-87bc0b174298" />
 
 
 ----
