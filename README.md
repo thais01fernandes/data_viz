@@ -4,6 +4,10 @@
   Projetos de visualização e storytelling com dados.
 </p>
 
+
+<img width="2749" height="1800" alt="grafico_florence" src="https://github.com/user-attachments/assets/764cb602-af4f-4fd1-bde9-9767a6b57fc1" />
+
+
 ----
 
 <img width="3000" height="1800" alt="grafico_linha" src="https://github.com/user-attachments/assets/f00c1a51-6502-4ac4-9bfc-81bd4fb19e29" />
