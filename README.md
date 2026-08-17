@@ -8,6 +8,9 @@
 
 <img width="2842" height="1800" alt="grafico_florence" src="https://github.com/user-attachments/assets/35382ed9-4a6b-4337-9e6f-87bc0b174298" />
 
+----
+
+<img width="1000" height="1000" alt="grafico_barras" src="https://github.com/user-attachments/assets/e945b349-ee63-41fb-8cb3-42a1cbb35af7" />
 
 ----
 
