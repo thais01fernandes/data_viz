@@ -10,7 +10,7 @@
 
 ----
 
-<img width="1000" height="1000" alt="grafico_barras" src="https://github.com/user-attachments/assets/e945b349-ee63-41fb-8cb3-42a1cbb35af7" />
+<img width="600" height="600" alt="grafico_barras" src="https://github.com/user-attachments/assets/e945b349-ee63-41fb-8cb3-42a1cbb35af7" />
 
 ----
 
