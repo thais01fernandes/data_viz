@@ -6,6 +6,11 @@
 
 ----
 
+<img width="2400" height="1099" alt="grafico_bolinhas_portes" src="https://github.com/user-attachments/assets/e4c94389-0605-49bb-9e74-2f117f173578" />
+
+
+----
+
 <img width="2842" height="1800" alt="grafico_florence" src="https://github.com/user-attachments/assets/35382ed9-4a6b-4337-9e6f-87bc0b174298" />
 
 ----
