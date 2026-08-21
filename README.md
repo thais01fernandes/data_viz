@@ -6,6 +6,10 @@
 
 ----
 
+<img width="3400" height="2500" alt="grafico_mei_subprefeitura" src="https://github.com/user-attachments/assets/29382987-7ec8-43aa-b112-b1fdb8e03e1f" />
+
+----
+
 <img width="2400" height="1099" alt="grafico_bolinhas_portes" src="https://github.com/user-attachments/assets/e4c94389-0605-49bb-9e74-2f117f173578" />
 
 
