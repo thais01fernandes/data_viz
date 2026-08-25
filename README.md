@@ -6,7 +6,8 @@
 
 ----
 
-<img width="3400" height="2500" alt="grafico_mei_subprefeitura" src="https://github.com/user-attachments/assets/29382987-7ec8-43aa-b112-b1fdb8e03e1f" />
+<img width="2000" height="1500" alt="grafico_mei_subprefeitura" src="https://github.com/user-attachments/assets/377fa7ec-3987-4815-9ce0-2a42fecb9e1c" />
+
 
 ----
 
