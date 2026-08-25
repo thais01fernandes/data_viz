@@ -11,7 +11,7 @@
 
 ----
 
-<img width="2400" height="1099" alt="grafico_bolinhas_portes" src="https://github.com/user-attachments/assets/e4c94389-0605-49bb-9e74-2f117f173578" />
+<img width="2400" height="1272" alt="grafico_bolinhas_portes" src="https://github.com/user-attachments/assets/746bb7cb-3894-47b0-ada1-929e3f5705da" />
 
 
 ----
