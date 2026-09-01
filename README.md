@@ -6,6 +6,11 @@
 
 ----
 
+<img width="2700" height="1650" alt="grafico_densidade_idade" src="https://github.com/user-attachments/assets/2a181273-4f73-4c6d-859b-3626ebdeb4e2" />
+
+
+----
+
 <img width="2000" height="1500" alt="grafico_mei_subprefeitura" src="https://github.com/user-attachments/assets/377fa7ec-3987-4815-9ce0-2a42fecb9e1c" />
 
 
