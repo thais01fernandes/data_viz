@@ -7,7 +7,7 @@
 
 ----
 
-<img width="1400" height="1700" alt="mapa_hex_vacancia_sao_paulo_2" src="https://github.com/user-attachments/assets/9f4d5358-d0e6-43d5-9df9-468063a03413" />
+<img width="1200" height="1300" alt="mapa_hex_vacancia_sao_paulo_2" src="https://github.com/user-attachments/assets/c28ee6d0-f861-4adc-bef2-bff428c02126" />
 
 ----
 
