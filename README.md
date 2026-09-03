@@ -55,7 +55,9 @@
 
 ----
 
-<img width="2700" height="1800" alt="grafico_3" src="https://github.com/user-attachments/assets/0379195c-e80a-4a1f-9134-a20fca005638" />----
+<img width="2700" height="1800" alt="grafico_3" src="https://github.com/user-attachments/assets/0379195c-e80a-4a1f-9134-a20fca005638" />
+
+----
 
 <img width="2700" height="1800" alt="grafico_alfabetizacao" src="https://github.com/user-attachments/assets/e579b7dd-bf18-4746-b29d-8fd767ae3a8c" />
 
