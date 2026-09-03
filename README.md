@@ -1,8 +1,17 @@
+
 # 📊 Portfólio de Visualização de Dados</h1>
 
 <p align="center">
   Projetos de visualização e storytelling com dados.
 </p>
+
+----
+
+<img width="1400" height="1700" alt="mapa_hex_vacancia_sao_paulo_2" src="https://github.com/user-attachments/assets/9f4d5358-d0e6-43d5-9df9-468063a03413" />
+
+----
+
+<img width="3600" height="1650" alt="grafico_usos_empilhado" src="https://github.com/user-attachments/assets/91f29a14-1c80-4bef-91db-4390afd683e7" />
 
 ----
 
