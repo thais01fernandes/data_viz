@@ -7,7 +7,7 @@
 
 ----
 
-<img width="1600" height="2100" alt="heatmap_viagens_externas_centro" src="https://github.com/user-attachments/assets/3cbecb3f-96af-4436-a568-c636e4510f09" />
+<img width="900" height="1100" alt="heatmap_viagens_externas_centro" src="https://github.com/user-attachments/assets/3cbecb3f-96af-4436-a568-c636e4510f09" />
 
 ----
 
