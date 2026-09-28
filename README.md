@@ -7,6 +7,10 @@
 
 ----
 
+<img width="1600" height="2100" alt="heatmap_viagens_externas_centro" src="https://github.com/user-attachments/assets/3cbecb3f-96af-4436-a568-c636e4510f09" />
+
+----
+
 <img width="1200" height="1300" alt="mapa_hex_vacancia_sao_paulo_2" src="https://github.com/user-attachments/assets/c28ee6d0-f861-4adc-bef2-bff428c02126" />
 
 ----
@@ -42,7 +46,7 @@
 
 ----
 
-<img width="500" height="750" alt="mapa_bivariado" src="https://github.com/user-attachments/assets/6a7feb57-492a-4e54-a2c2-d0e849c381f5" />
+<img width="540" height="750" alt="mapa_bivariado" src="https://github.com/user-attachments/assets/6a7feb57-492a-4e54-a2c2-d0e849c381f5" />
 
 
 ----
