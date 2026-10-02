@@ -5,6 +5,20 @@
   Projetos de visualização e storytelling com dados.
 </p>
 
+
+----
+
+<img width="3000" height="2100" alt="scatter_distancia_coletivo" src="https://github.com/user-attachments/assets/ac0c3c5f-b7f5-4ec2-bfb1-afb6f780d97f" />
+
+
+----
+
+<img width="3000" height="2100" alt="mapa_bivariado_centro_2" src="https://github.com/user-attachments/assets/ee4456c6-0406-4303-a27a-98df8ae0b99e" />
+
+----
+
+<img width="700" height="850" alt="grafico_motivos" src="https://github.com/user-attachments/assets/dd157cc9-a135-4d1d-b5c1-fd7fc87e6657" />
+
 ----
 
 <img width="750" height="900" alt="heatmap_viagens_externas_centro" src="https://github.com/user-attachments/assets/3cbecb3f-96af-4436-a568-c636e4510f09" />
